@@ -1,0 +1,14 @@
+body {
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    background-color: black;
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1504610926078-a1611febcad3?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTMzNzI5OTY&ixlib=rb-1.2.1&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pre {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
