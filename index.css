@@ -12,3 +12,13 @@ body {
 .pre {
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
+
+table,
+tr,
+td {
+    text-align: center;
+    height: 50px;
+    width: 50%;
+    size: 10px;
+    padding: 50px;
+}
